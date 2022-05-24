@@ -19,3 +19,7 @@ The Wisconsin Breast Cancer (Diagnostic) dataset has been extracted from the UCI
 kaggle link to dataset: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 data.csv link : https://drive.google.com/file/d/1z1YIzmhLc21vCkQb9JiIR9nMmnuRvzla/view?usp=sharing
+
+STEPS TO RUN:
+
+Run the BreastCancerDetection.ipynb file. You will notice a pickle file to be generated and an app.py file. Use !pip install streamlit --quiet to install streamlit and then run the file using !streamlit run app.py & npx localtunnel --port 8501. Now, go over to the generated link and enter any sample data from the data.csv file and observe the output ( either Malignant or Benign ).
