@@ -1,4 +1,4 @@
-# BreatCancerDetection
+# BreastCancerDetection
 
 DESCRIPTION:
 
